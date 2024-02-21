@@ -1,0 +1,22 @@
+body{
+    background-color: brown;
+    color: blue;
+    text-align: center;
+}
+h1{background-color: cadetblue;}
+h2{background-color: rgb(192, 16, 16);}
+h3{background-color: rgb(44, 19, 2);}
+h4{background-color: rgb(15, 243, 53);}
+h5{background-color: cadetblue;}
+h6{background-color: rgb(203, 248, 0);}
+
+h1,
+h2{
+    text-align: right;
+}
+h3,
+h4,
+h5,
+h6{
+    font-size: 20px
+}
